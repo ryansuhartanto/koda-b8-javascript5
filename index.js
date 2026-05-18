@@ -1,5 +1,5 @@
 /**
- * Check every items in array whether it's even or odd.
+ * Filter numbers from an array whether it's even or odd.
  * @param {number[]} arr
  * @param {"even"|"odd"} str
  */

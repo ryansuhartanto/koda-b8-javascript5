@@ -9,7 +9,7 @@ pure operators (`index-manual.js`).
 ```js
 const ARRAY = [1, 2, 3, 4];
 console.log(arrEvenOdd(ARRAY, "even")); // returns [2, 4];
-console.log(arrEvenOdd(ARRAY, "odd"));  // returns [1, 3];
+console.log(arrEvenOdd(ARRAY, "odd")); // returns [1, 3];
 ```
 
 ## License
